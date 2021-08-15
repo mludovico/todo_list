@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To-Do List</string>
+    <string name="hint_task_title">Título</string>
+    <string name="hint_task_description">Descrição</string>
+    <string name="hint_task_date">Data</string>
+    <string name="hint_task_time">Hora</string>
+    <string name="btn_create_task">Criar Tarefa</string>
+    <string name="btn_cancel_create_task">Cancelar</string>
+    <string name="btn_add_task_content_description">Add todo button</string>
+    <string name="task_activity_title">Tarefas</string>
+    <string name="menu_label_edit">Editar</string>
+    <string name="menu_label_delete">Deletar</string>
+    <string name="empty_state_label">Ops! Você não possui\nnenhuma tarefa.</string>
+</resources>
